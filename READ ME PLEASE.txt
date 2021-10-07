@@ -1,0 +1,7 @@
+Thing you will need:
+
+1: python, can be downloaded here: https://www.python.org/downloads/ 
+
+2: keyboard plugin can be downloaded here: https://pypi.org/project/keyboard/#files 
+
+3: A Brain! :) double click HaydensProgram.py to launch
